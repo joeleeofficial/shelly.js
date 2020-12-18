@@ -1,0 +1,11 @@
+{
+  "name": "shelly.js",
+  "version": "1.0.5",
+  "description": "shelly.js by joe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Lee",
+  "license": "ISC"
+}
